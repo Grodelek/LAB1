@@ -227,6 +227,113 @@
 			</div>
 		</div>
 	</section>
+	<section id="projekt5">
+		<div class="container">
+			<div class="jumbotron">
+				<h1>Projekt 5: Tabela z danymi</h1>
+				<table class="table table-bordered" id="data-table">
+					<thead>
+					<tr>
+						<th>#</th>
+						<th>Imię</th>
+						<th>Nazwisko</th>
+						<th>Email</th>
+						<th>Akcja</th>
+					</tr>
+					</thead>
+					<tbody>
+					<tr>
+						<td>1</td>
+						<td><input type="text" value="Artur" class="form-control" id="first-name-1"></td>
+						<td><input type="text" value="Grodel" class="form-control" id="last-name-1"></td>
+						<td><input type="email" value="artur.grodel@example.com" class="form-control" id="email-1"></td>
+						<td><button class="btn btn-info" id="quote-1">Cytat</button></td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td><input type="text" value="Jan" class="form-control" id="first-name-2"></td>
+						<td><input type="text" value="Kowalski" class="form-control" id="last-name-2"></td>
+						<td><input type="email" value="jan.kowalski@example.com" class="form-control" id="email-2"></td>
+						<td><button class="btn btn-info" id="quote-2">Cytat</button></td>
+					</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</section>
+	<section id="projekt6">
+		<div class="container">
+			<div class="jumbotron">
+				<h1>Projekt 6: Przycisk do edycji</h1>
+				<button class="btn btn-warning" id="button1">Zmień kolor inputów (dzieci)</button>
+				<button class="btn btn-success" id="button2">Zmień styl cytatu (elementy sąsiadujące)</button>
+				<button class="btn btn-danger" id="button3">Zmień kolor tabeli (atrybuty)</button>
+			</div>
+		</div>
+	</section>
+	<section id="projekt7">
+		<div class="container">
+			<div class="jumbotron">
+				<h1>Projekt 7: Filtry do edytowania tabeli</h1>
+				<button class="btn btn-primary" id="button4">Parzyste wiersze tabeli</button>
+				<button class="btn btn-info" id="button5">Nieparzyste wiersze tabeli</button>
+				<button class="btn btn-secondary" id="button6">Pierwszy i ostatni wiersz</button>
+				<button class="btn btn-light" id="button7">Elementy z tekstem</button>
+				<button class="btn btn-dark" id="button8">Ukryte elementy</button>
+			</div>
+		</div>
+	</section>
+	<script>
+		$(document).ready(function() {
+
+			$('#button1').click(function() {
+				$('#data-table input').css('background-color', function() {
+					return $(this).val() ? 'lightgreen' : 'lightcoral';
+				});
+			});
+
+			$('#button2').click(function() {
+				$('button[id^="quote-"]').each(function() {
+					$(this).css({
+						'background-color': 'orange',
+						'color': 'white',
+						'font-size': '18px'
+					});
+				});
+			});
+
+			$('#button3').click(function() {
+				$('#data-table').css('border-color', 'blue');
+			});
+
+			$('#button4').click(function() {
+				$('#data-table tbody tr:even').css('background-color', 'lightblue');
+			});
+
+			$('#button5').click(function() {
+				$('#data-table tbody tr:odd').css('background-color', 'lightyellow');
+			});
+
+			$('#button6').click(function() {
+				$('#data-table tbody tr:first, #data-table tbody tr:last').css('background-color', 'lightgrey');
+			});
+
+			$('#button7').click(function() {
+				$('td:contains("Artur"), td:contains("Jan")').css('background-color', 'lightgreen');
+			});
+
+			$('#button8').click(function() {
+				$('#data-table tbody tr').each(function() {
+					if ($(this).is(':hidden')) {
+						$(this).show();
+					} else {
+						$(this).hide();
+					}
+				});
+			});
+
+		});
+	</script>
 
 	<footer>
 		<div class="container" style="margin-top: 5%">
