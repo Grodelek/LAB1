@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Projekty-Aplikacje-Internetowe/static/css/main.f855e6bc.css",
-    "main.js": "/Projekty-Aplikacje-Internetowe/static/js/main.4e6d2fa3.js",
-    "static/js/453.a1a0e49a.chunk.js": "/Projekty-Aplikacje-Internetowe/static/js/453.a1a0e49a.chunk.js",
-    "static/media/logo.svg": "/Projekty-Aplikacje-Internetowe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Projekty-Aplikacje-Internetowe/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/Projekty-Aplikacje-Internetowe/static/js/main.9e3a5bb0.chunk.js",
+    "main.js.map": "/Projekty-Aplikacje-Internetowe/static/js/main.9e3a5bb0.chunk.js.map",
+    "runtime~main.js": "/Projekty-Aplikacje-Internetowe/static/js/runtime~main.6abb8dbc.js",
+    "runtime~main.js.map": "/Projekty-Aplikacje-Internetowe/static/js/runtime~main.6abb8dbc.js.map",
+    "static/js/2.bbc244fd.chunk.js": "/Projekty-Aplikacje-Internetowe/static/js/2.bbc244fd.chunk.js",
+    "static/js/2.bbc244fd.chunk.js.map": "/Projekty-Aplikacje-Internetowe/static/js/2.bbc244fd.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/Projekty-Aplikacje-Internetowe/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/Projekty-Aplikacje-Internetowe/static/js/3.a29efab2.chunk.js.map",
     "index.html": "/Projekty-Aplikacje-Internetowe/index.html",
-    "main.f855e6bc.css.map": "/Projekty-Aplikacje-Internetowe/static/css/main.f855e6bc.css.map",
-    "main.4e6d2fa3.js.map": "/Projekty-Aplikacje-Internetowe/static/js/main.4e6d2fa3.js.map",
-    "453.a1a0e49a.chunk.js.map": "/Projekty-Aplikacje-Internetowe/static/js/453.a1a0e49a.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.4e6d2fa3.js"
-  ]
+    "precache-manifest.85dde236cdbfc83300d51e3006c35b66.js": "/Projekty-Aplikacje-Internetowe/precache-manifest.85dde236cdbfc83300d51e3006c35b66.js",
+    "service-worker.js": "/Projekty-Aplikacje-Internetowe/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/Projekty-Aplikacje-Internetowe/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/Projekty-Aplikacje-Internetowe/static/media/logo.06e73328.svg"
+  }
 }

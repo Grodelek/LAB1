@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-// Komponent do wyświetlania informacji o użytkowniku
 const UserInfo = ({ name, age, email, address, status, updateUserData }) => {
     return (
         <div className="user-info">
@@ -27,7 +26,6 @@ const App = () => {
     });
 
     const updateUserData = () => {
-        // Symulacja edycji danych
         setUser({
             ...user,
             name: 'Anna Nowak',
