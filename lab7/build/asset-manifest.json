@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/Projekty-Aplikacje-Internetowe/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/Projekty-Aplikacje-Internetowe/static/js/main.9e3a5bb0.chunk.js",
-    "main.js.map": "/Projekty-Aplikacje-Internetowe/static/js/main.9e3a5bb0.chunk.js.map",
-    "runtime~main.js": "/Projekty-Aplikacje-Internetowe/static/js/runtime~main.6abb8dbc.js",
-    "runtime~main.js.map": "/Projekty-Aplikacje-Internetowe/static/js/runtime~main.6abb8dbc.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/Projekty-Aplikacje-Internetowe/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/Projekty-Aplikacje-Internetowe/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/Projekty-Aplikacje-Internetowe/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/Projekty-Aplikacje-Internetowe/static/js/3.a29efab2.chunk.js.map",
+    "main.css": "/Projekty-Aplikacje-Internetowe/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Projekty-Aplikacje-Internetowe/static/js/main.b5c25a0a.chunk.js",
+    "main.js.map": "/Projekty-Aplikacje-Internetowe/static/js/main.b5c25a0a.chunk.js.map",
+    "runtime~main.js": "/Projekty-Aplikacje-Internetowe/static/js/runtime~main.ed95b305.js",
+    "runtime~main.js.map": "/Projekty-Aplikacje-Internetowe/static/js/runtime~main.ed95b305.js.map",
+    "static/js/2.ca150098.chunk.js": "/Projekty-Aplikacje-Internetowe/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/Projekty-Aplikacje-Internetowe/static/js/2.ca150098.chunk.js.map",
+    "static/js/3.1b3c587a.chunk.js": "/Projekty-Aplikacje-Internetowe/static/js/3.1b3c587a.chunk.js",
+    "static/js/3.1b3c587a.chunk.js.map": "/Projekty-Aplikacje-Internetowe/static/js/3.1b3c587a.chunk.js.map",
     "index.html": "/Projekty-Aplikacje-Internetowe/index.html",
-    "precache-manifest.85dde236cdbfc83300d51e3006c35b66.js": "/Projekty-Aplikacje-Internetowe/precache-manifest.85dde236cdbfc83300d51e3006c35b66.js",
+    "precache-manifest.a7c94c8202184494111383e35c9686f3.js": "/Projekty-Aplikacje-Internetowe/precache-manifest.a7c94c8202184494111383e35c9686f3.js",
     "service-worker.js": "/Projekty-Aplikacje-Internetowe/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/Projekty-Aplikacje-Internetowe/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/Projekty-Aplikacje-Internetowe/static/media/logo.06e73328.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/Projekty-Aplikacje-Internetowe/static/css/main.5ecd60fb.chunk.css.map"
   }
 }
