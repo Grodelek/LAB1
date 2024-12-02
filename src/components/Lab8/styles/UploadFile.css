@@ -1,0 +1,14 @@
+.upload-file-container {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .upload-file-container input {
+    margin-top: 10px;
+  }
+  

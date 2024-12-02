@@ -1,0 +1,16 @@
+.handle-mouseover-container {
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .handle-mouseover-container p {
+    font-size: 18px;
+    color: black;
+    transition: color 0.3s ease;
+  }
+  

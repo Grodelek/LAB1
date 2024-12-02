@@ -1,0 +1,25 @@
+.handle-click-container {
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    width: 200px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .handle-click-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .handle-click-container button:hover {
+    background-color: #0056b3;
+  }
+  

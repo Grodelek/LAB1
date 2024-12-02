@@ -1,0 +1,30 @@
+.counter-wrong-container {
+    background-color: #fff4e6;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 200px;
+  }
+  
+  .counter-wrong-container h1 {
+    font-size: 2rem;
+    color: #d9534f;
+  }
+  
+  .counter-wrong-container button {
+    background-color: #f0ad4e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .counter-wrong-container button:hover {
+    background-color: #d9534f;
+  }
+  

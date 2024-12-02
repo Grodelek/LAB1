@@ -1,0 +1,16 @@
+.change-style-container {
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: lightgray;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .change-style-container:hover {
+    background-color: lightblue;
+    color: white;
+  }
+  
