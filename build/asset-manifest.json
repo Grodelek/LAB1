@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aplikacje-internetowe/static/css/main.95ac7029.css",
+    "main.js": "/aplikacje-internetowe/static/js/main.9108425e.js",
+    "index.html": "/aplikacje-internetowe/index.html",
+    "main.95ac7029.css.map": "/aplikacje-internetowe/static/css/main.95ac7029.css.map",
+    "main.9108425e.js.map": "/aplikacje-internetowe/static/js/main.9108425e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ac7029.css",
+    "static/js/main.9108425e.js"
+  ]
+}
